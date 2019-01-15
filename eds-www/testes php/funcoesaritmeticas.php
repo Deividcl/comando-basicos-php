@@ -20,7 +20,7 @@
     echo "<br/> A raiz de $v1 é" .sqrt($v1);
     #round() Arredondamento
     echo "<br/> O valor de $v2 arredondado é " .round($v2);
-    ?>
+   
 </div>
 </body>
 </html>

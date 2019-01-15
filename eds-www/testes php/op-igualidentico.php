@@ -11,9 +11,9 @@
 		$a = 6;
 		$b = "6";
 		# Operador ternário é representado pelo sinal de interrogação
-		# expressao?verdadeiro:falso
+		# expressao ?verdadeiro e :falso
 		# === Identico e do mesmo tipo | == Igual independente do tipo
-		
+
 		$r = ($a === $b)?"SIM":"NAO"; #avalia_a_expressão ? se_verdadeiro : se_não
 		echo "As variáveis $a e $b são iguais? $r";
 	?>
